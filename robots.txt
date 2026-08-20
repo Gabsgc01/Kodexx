@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://kodexx.vercel.app/sitemap.xml
+
+# LLMs
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
